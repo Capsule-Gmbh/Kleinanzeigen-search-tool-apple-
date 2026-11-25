@@ -1,0 +1,6 @@
+{
+  "name": "KleinScout Gift Radar",
+  "description": "Automated Kleinanzeigen price scout and mint-condition gift monitor for iPhone 15 Pro, Apple Watch Series 9 45mm Stainless Steel LTE, and MacBook Pro 14-inch M3 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
